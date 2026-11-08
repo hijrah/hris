@@ -1,0 +1,70 @@
+
+> build
+> vp build
+
+[plugin @laravel/vite-plugin-wayfinder] Types generated for actions, routes, form variants
+[33m[plugin laravel:fonts] Optimized font fallbacks require the optional "fontaine" package. Install it, or set "optimizedFallbacks: false" on your fonts to disable the feature.[39m
+transforming...
+✓ 2342 modules transformed.
+rendering chunks...
+computing gzip size...
+public/build/fonts-manifest.json                                 5.74 kB │ gzip:   0.71 kB
+public/build/manifest.json                                      14.97 kB │ gzip:   1.79 kB
+public/build/assets/instrument-sans-400-normal-DRC__1Mx.woff2   16.86 kB
+public/build/assets/instrument-sans-500-normal-Dk9ku72i.woff2   17.23 kB
+public/build/assets/instrument-sans-600-normal-B7fBEWYG.woff2   17.40 kB
+public/build/assets/instrument-sans-400-normal-D1W7dsQl.woff    21.24 kB
+public/build/assets/instrument-sans-500-normal-Z6ESRlEs.woff    21.65 kB
+public/build/assets/instrument-sans-600-normal-B9e8oLYv.woff    21.67 kB
+public/build/assets/fonts-C9MNnjVw.css                           2.35 kB │ gzip:   0.38 kB
+public/build/assets/app-D2SvLLU1.css                            91.56 kB │ gzip:  15.25 kB
+public/build/assets/check-DqSKbWn9.js                            0.12 kB │ gzip:   0.14 kB
+public/build/assets/loader-circle-CioFjb-T.js                    0.14 kB │ gzip:   0.15 kB
+public/build/assets/input-error-CT9IWS6f.js                      0.26 kB │ gzip:   0.22 kB
+public/build/assets/confirm-2yxDT82a.js                          0.36 kB │ gzip:   0.22 kB
+public/build/assets/text-link-DxfWDV6U.js                        0.38 kB │ gzip:   0.27 kB
+public/build/assets/date-CznH-Oif.js                             0.46 kB │ gzip:   0.22 kB
+public/build/assets/spinner-CE4rOBzM.js                          0.48 kB │ gzip:   0.35 kB
+public/build/assets/rolldown-runtime-WkwZ5CU-.js                 0.59 kB │ gzip:   0.36 kB
+public/build/assets/dist-BAf-zHeK.js                             0.70 kB │ gzip:   0.48 kB
+public/build/assets/label-CjM6klHy.js                            0.98 kB │ gzip:   0.62 kB
+public/build/assets/badge-BWL-uNAY.js                            1.26 kB │ gzip:   0.62 kB
+public/build/assets/verify-email-CDp9EJBq.js                     1.34 kB │ gzip:   0.72 kB
+public/build/assets/verification-DRPj1jgg.js                     1.48 kB │ gzip:   0.52 kB
+public/build/assets/card-Camlj48U.js                             1.77 kB │ gzip:   0.51 kB
+public/build/assets/passkey-verify-s1igtuQO.js                   1.87 kB │ gzip:   1.06 kB
+public/build/assets/password-input-rLdjv_9B.js                   1.90 kB │ gzip:   1.05 kB
+public/build/assets/forgot-password-DXvUM7t0.js                  1.97 kB │ gzip:   0.91 kB
+public/build/assets/appearance-BZFMN_eX.js                       2.24 kB │ gzip:   1.08 kB
+public/build/assets/reset-password-Cih9Aj6j.js                   2.33 kB │ gzip:   0.95 kB
+public/build/assets/confirm-password-BiVqiU3S.js                 2.34 kB │ gzip:   1.00 kB
+public/build/assets/password-9UEdU1-M.js                         2.73 kB │ gzip:   0.73 kB
+public/build/assets/two-factor-challenge-DMYUwsBW.js             2.81 kB │ gzip:   1.29 kB
+public/build/assets/register-CjMh9ucn.js                         2.87 kB │ gzip:   1.10 kB
+public/build/assets/dialog-CcDo4fIf.js                           4.10 kB │ gzip:   1.28 kB
+public/build/assets/button-l6emXN9i.js                           5.20 kB │ gzip:   2.28 kB
+public/build/assets/dashboard-jJ1dsheh.js                        5.35 kB │ gzip:   1.99 kB
+public/build/assets/leave-lNHVw0xi.js                            6.76 kB │ gzip:   2.09 kB
+public/build/assets/profile-CvBfwYqb.js                          6.91 kB │ gzip:   2.35 kB
+public/build/assets/dist-BZbQ4402.js                             7.02 kB │ gzip:   2.72 kB
+public/build/assets/kasbon-dIT-eA7f.js                           7.49 kB │ gzip:   2.34 kB
+public/build/assets/login-DP7Q6-qv.js                            7.91 kB │ gzip:   3.21 kB
+public/build/assets/attendance-C_5Xfv2E.js                      13.49 kB │ gzip:   4.03 kB
+public/build/assets/react-B2Gf_NCQ.js                           13.89 kB │ gzip:   4.62 kB
+public/build/assets/use-two-factor-auth-QNibL55t.js             17.07 kB │ gzip:   6.18 kB
+public/build/assets/es2015-DTgqguxm.js                          23.74 kB │ gzip:   8.52 kB
+public/build/assets/select-ByRibh6c.js                          24.40 kB │ gzip:   8.26 kB
+public/build/assets/createLucideIcon-CEbkZXIZ.js                28.59 kB │ gzip:   9.25 kB
+public/build/assets/security-BUrxJFGB.js                        30.08 kB │ gzip:   9.86 kB
+public/build/assets/welcome-BdmjCSum.js                         31.19 kB │ gzip:   6.72 kB
+public/build/assets/app-CxMgjZdv.js                            157.45 kB │ gzip:  46.56 kB
+public/build/assets/wayfinder-JjQcV2zX.js                      360.80 kB │ gzip: 112.44 kB
+
+[32m✓ built in 3.74s[39m
+[33m[33m[PLUGIN_TIMINGS] [0mJavaScript callbacks ran for 3.5s of this 3.7s build (93%).
+The slowest callbacks, timed inside each callback (the wait before a callback starts is excluded, the time it awaits is included):
+  - plugin @rolldown/plugin-babel transform (53%, 2.0s, 101 calls)
+  - plugin @laravel/vite-plugin-wayfinder buildStart (29%, 1.1s, 1 call)
+Additional callback time came from callbacks under 1s.
+See https://rolldown.rs/reference/InputOptions.checks#bundlertimings for more details.
+[39m
